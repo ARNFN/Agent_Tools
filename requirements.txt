@@ -1,0 +1,10 @@
+anthropic
+python-dotenv
+httpx
+feedparser
+PyYAML
+cryptography
+PyJWT>=2.8.0
+pymysql>=1.1.0
+tzdata
+rich

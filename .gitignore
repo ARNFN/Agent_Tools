@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+data/
+projects/
+.venv/
+venv/
+debug-*.log
+.idea/
+
+# QWeather keys (never commit; see qweather_key/README.md)
+qweather_key/*.pem
+
+# Local docs with environment-specific notes (optional)
+使用手册.md
